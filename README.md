@@ -11,5 +11,5 @@
 * C#
 * Blender
 
-### VR Archery
+## VR Archery
 * A Simple VR Scene allow user to simulate archering.
